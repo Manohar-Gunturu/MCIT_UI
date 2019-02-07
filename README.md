@@ -1,4 +1,7 @@
 # MCIT_UI
+
+gunturumanohar2@gmail.com
+
 Front end development lecture slides
 
 Lecture 1: https://docs.google.com/presentation/d/17ngKi9b2OiEzmYv_jcEtwE7En3XQbaVMPsKrrTUvDNY/edit?usp=sharing
